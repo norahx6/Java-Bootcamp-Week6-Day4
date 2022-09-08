@@ -1,0 +1,9 @@
+body {
+  background-color: lavender;
+}
+
+h1{
+  color: rgba(137, 129, 129, 0.842);
+  text-align: center;
+  margin: 0 0 20px;
+}
